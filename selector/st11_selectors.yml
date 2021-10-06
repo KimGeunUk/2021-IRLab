@@ -1,0 +1,20 @@
+product_title:
+    css: 'div.c_product_info_title h1'
+    type: Text
+reviews:
+    css: 'ul.area_list li'
+    multiple: true
+    type: Text
+    children:
+        content:
+            css: 'p.cont_text'
+            type: Text
+        date:
+            css: 'span.date'
+            type: Text
+        option:
+            css: 'p.option'
+            type: Text
+        rating:
+            css: 'span.c_seller_grade em'
+            type: Text
