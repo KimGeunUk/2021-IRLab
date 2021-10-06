@@ -1,0 +1,80 @@
+product_title:
+    css: 'div.floatingTab_info_area__Ou-9l'
+    type: Text
+reviews:
+    css: 'ul.reviewItems_list_review__1sgcJ li'
+    multiple: true
+    type: Text
+    children:
+        title:
+            css: 'em.reviewItems_title__39Z8H'
+            type: Text
+        content:
+            css: 'p.reviewItems_text__XIsTc'
+            type: Text
+        date:
+            css: 'div.reviewItems_etc_area__2P8i3 span:nth-child(4)'
+            type: Text
+            multiple: true
+        option:
+            css: 'div.reviewItems_etc_area__2P8i3 span:nth-child(2)'
+            type: Text
+            multiple: true
+        rating:
+            css: 'span.reviewItems_average__16Ya-'
+            type: Text
+related:
+    css: 'ul.productList_list_product__2pwcA li'
+    multiple: true
+    type: Text
+    children:
+        title:
+            css: 'div.productList_info__1UqCb'
+            type: Text
+        url:
+            css: 'li.productList_item__wK0rt a'
+            type: Link
+features:
+    css: 'div.foodIngredient_section_nutrition__36rgn'
+    type: Text
+    multiple: true
+    children:
+        nutrition_infor:
+            css: 'ul.foodIngredient_graph_list__1a5eu li'
+            type: Text
+            multiple: true
+            children:
+                nutrition:
+                    css: 'div.ingredientGraph_figure__gj34k'
+                    type: Text
+        materiales:
+            css: 'div.foodIngredient_product_attribute__23WjQ'
+            type: Text
+            multiple: true
+            children:
+                material:
+                    css: 'div:nth-child(5) tr:nth-child(1) td'
+                    type: Text
+                allergy:
+                    css: 'div:nth-child(5) tr:nth-child(2) td'
+                    type: Text
+        infor:
+            css: 'div:nth-child(6) tbody'
+            type: Text
+            multiple: true
+            children:
+                size:
+                    css: 'tr:nth-child(1) td:nth-child(2)'
+                    type: Text
+                type:
+                    css: 'tr:nth-child(1) td:nth-child(4)'
+                    type: Text
+                origin:
+                    css: 'tr:nth-child(2) td:nth-child(2)'
+                    type: Text
+                caution:
+                    css: 'tr:nth-child(2) td:nth-child(4)'
+                    type: Text
+                mark:
+                    css: 'tr:nth-child(3) td'
+                    type: Text
