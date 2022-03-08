@@ -42,7 +42,12 @@
 
   BeautifulSoup, selenium 을 사용하여 필요한 제품 정보(제품명, 제품가격, 제품이미지, 리뷰 등)을 각종 포털 사이트에서 수집하였다.
 
-## 결과
+### Model
+
+- BERT
+   + sentimnet analysis를 위한 single sentence classification 으로 fine tuning
+
+<div align=center> <h2> 결과 </h2> </div>
 
 ![image](https://user-images.githubusercontent.com/74355042/157233049-43702590-60c5-46b1-868f-c4ab0e790d10.png)
 ![image](https://user-images.githubusercontent.com/74355042/157233070-87f0c883-7b5d-4dc9-868c-6ced21789bd0.png)
