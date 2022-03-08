@@ -11,6 +11,7 @@
 
 - BERT를  single sentence classification 으로 fine tuning 하여 sentiment analysis를 할 수 있도록 설계    
 
+> 이 Github에는 제가 구현한 2번, 3번 사항의 코드를 업로드 하였습니다..
 
 <div align=center> <h2> 흐름도 </h2>
 
