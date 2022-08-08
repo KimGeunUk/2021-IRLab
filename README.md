@@ -6,6 +6,20 @@
 
 <h2> CODE </h2>
 
+<h3> Crawling </h3>
+
+- data_crawling
+: 해당 포털 사이트에서 리뷰 데이터를 수집합니다.
+
+- img_crawling
+: DB에 등록되어 있는 제품의 제조사 홈페이지로 이동하여 해당 제품의 이미지를 수집합니다.
+
+- qr_crawling
+: qr코드 제작 홈페이지에서 DB에 등록되어 있는 제품 코드를 사용하여 qr코드 이미지를 생성합니다.
+
+<h3> DataBase </h3>
+
+
 <h2> RESULT </h2>
 
 ![image](https://user-images.githubusercontent.com/74355042/157233049-43702590-60c5-46b1-868f-c4ab0e790d10.png)
