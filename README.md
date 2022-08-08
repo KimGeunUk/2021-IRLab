@@ -1,4 +1,4 @@
-<div align=center> <h2> 2021-IRLab-Project </h2> </div>
+<h1> LINK </h1>
    
 본 프로젝트의 자세한 설명은 다음 블로그에서 확인할 수 있습니다.
 
