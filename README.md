@@ -2,7 +2,7 @@
    
 본 프로젝트의 자세한 설명은 다음 블로그에서 확인할 수 있습니다.
 
-https://geunuk.tistory.com/90?category=900414
+![제품 리뷰를 분석하여 소비자에게 다양한 정보를 제공하는 모바일 웹 개발](https://geunuk.tistory.com/90?category=900414)
 
 <div align=center> <h2> 결과 </h2> </div>
 
