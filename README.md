@@ -4,7 +4,7 @@
 
 [제품 리뷰를 분석하여 소비자에게 다양한 정보를 제공하는 모바일 웹 개발](https://geunuk.tistory.com/90?category=900414)
 
-<h2> CODE </h2>
+<h2> My CODE </h2>
 
 <h3> Crawling </h3>
 
